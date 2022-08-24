@@ -1,0 +1,291 @@
+-------------------------------------------------------------------------
+
+
+
+                         SECOND CALL FOR PAPERS
+
+                 FIFTH ANNUAL INTERNATIONAL CONFERENCE ON
+                    COMPUTATIONAL MOLECULAR BIOLOGY
+
+                              (RECOMB 2001)
+
+                            April 22-25, 2001
+                            Montréal, Canada
+
+                               Organized by
+                    Centre de recherches mathématiques
+                         Université de Montréal
+
+                               Sponsored by
+            Association for Computing Machinery (ACM-SIGACT)
+
+                            with support from
+                             Celera Genomics
+                                 Compugen
+                             IBM Corporation
+             International Society for Computational Biology (ISCB)
+                             SLOAN Foundation
+                            SmithKline Beecham
+                         US Department of Energy
+                     US National Science Foundation
+
+                        http://recomb2001.gmd.de
+
+
+The Fifth Annual Conference on Research in Computational Molecular
+Biology (RECOMB 2001), sponsored by the Association for Computing
+Machinery Special Interest Group on Algorithms and Computation Theory
+(ACM-SIGACT) with support from Celera Genomics, Compugen, IBM
+Corporation, SLOAN Foundation, International Society for Computational
+Biology (ISCB), SmithKline Beecham, US Department of Energy, and US
+National Science Foundation will be organized by Centre de recherches
+mathématiques, Université de Montréal, in Montreal, Canada on April
+22-25, 2001. The conference will be held at the Montréal Wyndham
+Hotel.
+
+
+Papers reporting on original research (both theoretical and 
+experimental) in all areas of computational molecular biology are 
+sought, including surveys of important recent results/directions.
+
+Typical but not exclusive topics of interest include:
+
+Genomics
+Molecular sequence analysis
+Recognition of genes and regulatory elements
+Molecular evolution
+Protein structure
+Gene expression
+Gene networks
+Combinatorial libraries and drug design
+Computational proteomics
+Structural and functional genomics
+
+ABSTRACT SUBMISSION:
+
+Authors are encouraged to submit their abstracts ELECTRONICALLY. 
+The respective email address is 
+
+                 recomb01@sigact.acm.org
+
+Electronic submission instructions can be found at 
+
+       http://sigact.acm.org/~recomb01/RECOMB2001.html
+
+Authors who are unable to do so are requested to send 10 copies 
+(preferably two sided copies) to:
+
+          Thomas Lengauer
+          Program Chair RECOMB 2001
+          Institute for Algorithms and Scientific Computing
+          GMD - German National Research Center for Information Technology
+          Schloss Birlinghoven
+          53754 Sankt Augustin
+          Germany
+          Tel: +49 2241 14 2777
+          Fax: +49 2241 14 2656
+          email: recomb2001@gmd.de
+
+Abstracts must be received by September 30, 2000, 23:59 local time. 
+This is a firm deadline. Simultaneous submission to another 
+conference or journal is allowed. Authors are asked to inform the 
+program chair at the time of submission of the simultaneous 
+submission.
+
+The deadline for submission to RECOMB 2001 has been extended 
+to Oct 5, 2000 23:59 middle European time. 
+
+CONFERENCE PROCEEDINGS:
+
+The extended abstracts for the Conference will be published by ACM 
+Press and will be available at the Conference. If the paper has been 
+accepted to another conference or a journal before RECOMB 2001, the 
+authors will be allowed only a short abstract (1 page) in the 
+proceedings of RECOMB 2001 and not an extended abstract.
+A selection of the accepted extended abstracts in their final journal 
+versions will be invited to appear in a special issue of the Journal 
+of Computational Biology devoted to RECOMB 2001.
+
+NOTIFICATION:
+
+The conference submissions will be refereed by the program committee. 
+Authors will be notified of acceptance or rejection by a letter 
+mailed on or before December 8, 2000. A final copy of each accepted 
+paper is required by January 5, 2001. An author of each accepted 
+paper is expected to attend the Symposium and present the paper; 
+otherwise alternative arrangements should be made to have the paper 
+presented.
+
+ABSTRACT PREPARATION:
+
+An abstract should start with a succinct statement of the problem, 
+the results achieved, their significance and a comparison with 
+previous work. This material should be understandable to 
+non-specialists. A technical exposition directed to the specialist 
+should follow. The length, excluding cover page and bibliography, 
+should not exceed 10 pages. The manuscript should be easy to read, 
+using at least 11 point font size on U.S. standard 8 1/2 by 11 inch 
+paper with no less than one inch margin all around. If authors 
+believe that  more details are absolutely necessary to substantiate 
+the claims of the paper, they may include a clearly marked appendix. 
+An email address for the contact author should be included. 
+Abstracts that deviate significantly from these guidelines risk 
+rejection without consideration of their merits.
+
+POSTERS:
+
+RECOMB 2001 will include a poster session. Accepted posters will 
+appear in a special poster book published by the Centre de recherches 
+mathématiques. Poster submission instructions will be announced later.
+
+CONFERENCE EVENTS:
+
+RECOMB 2001 will feature 9 Plenary Lectures (to be announced later) 
+including the following conference events:
+
+  -  The Stanislaw Ulam Memorial Computational Biology Address:
+     awarded by RECOMB to a scientist who has made major contributions in 
+     the computational aspects of the field.
+
+  -  The Distinguished Biology Lecture:
+     awarded by RECOMB to a scientist who has made major contributions in 
+     the biological aspects of the field.
+
+  -  The Distinguished New Technologies Lecture:
+     describing emerging, new technologies.
+
+  -  Best Paper by a Young Scientist Award:
+     This award will be given to the best paper written solely by one or 
+     more recent graduates or students. An abstract is eligible if all 
+     authors are recent graduates (within 3 years from Ph.D.) or full-time 
+     students at the time of submission. This should be indicated in a 
+     letter to the program chair that accompanies the submission. The 
+     program committee may decline to make the award or may split it among 
+     several papers.
+
+  -  The Conference occasionally awards the "Fred Howes Distinguished 
+     Service Award Lecture" in recognition of exceptional service on 
+     behalf of the Computational Biology community.
+
+INVITED SPEAKERS:
+
+George Church           Harvard Medical School, Boston, MA, USA 
+Philip Sharp            Massachusetts Institute of Technology,
+                        Cambridge, MA, USA
+Ruedi Aebersold         University of Washington, Washington, DC, USA
+Mark Adams              Celera Genomics, Rockville, MD, USA
+Roger Brent             Molecular Sciences Institute, Berkeley, CA, USA
+Franz Lang              Université de Montréal, Montréal, Canada
+Klaus Lindpaintner      F. Hoffmann-La Roche AG, Basel, Switzerland
+Yvonne Martin           Abbott Laboratories, Abbott Park, IL, USA
+Mark Ptashne            Memorial Sloan Kettering Cancer Center,
+                        New York, NY, USA
+
+
+CALENDAR:
+
+Deadline for submission of papers:			Sep 30, 2000 
+extended to                                             Oct  5, 2000 23:59 MET
+Notification of acceptance/rejection:			Dec  5, 2000
+Deadline for reception of final papers:			Jan  5, 2001
+
+
+STEERING COMMITTEE:
+
+Sorin Istrail, RECOMB General Vice-Chair  Celera Genomics, 
+                                          Rockville, MD, USA
+Richard Karp				  University of California, 
+                                          Berkeley, CA, USA
+Thomas Lengauer			  	  GMD, 
+                                          Sankt Augustin, Germany
+Pavel Pevzner, RECOMB General Chair	  University of California,
+					  San Diego, CA, USA
+Ron Shamir				  Tel-Aviv University, 
+                                          Tel Aviv, Israel
+Michael Waterman, RECOMB General Chair    University of Southern California
+					  Los Angeles, CA, USA
+
+
+PROGRAM COMMITTEE:
+
+Steve Bryant		NCBI, Bethesda, USA
+Philipp Bucher		Swiss Institute of Bioinformatics, Lausanne, Switzerland
+Gordon Crippen		University of Michigan, Ann Arbor, MI, USA
+Antoine Danchin         Institut Pasteur, Paris, France 
+Sridhar Hannenhalli	Celera Genomics, Rockville, MD, USA
+David Haussler          University of California, Santa Cruz, CA, USA
+Liisa Holm		EMBL.EBI, Cambridge, England
+Sorin Istrail		Celera Genomics, Rockville, MD, USA
+Minoru Kanehisa		Kyoto University, Kyoto, Japan
+Richard Karp		University of California, Berkeley
+Thomas Lengauer (Chair)	GMD Sankt Augustin, Germany
+Hans-Peter Lenhof	MPI for Computer Science, Saarbruecken, Germany
+Michal Linial		The Hebrew University, Jerusalem, Israel
+Satoru Miyano		University of Tokyo, Tokyo, Japan
+Pavel Pevzner		University of California, San Diego, CA, USA
+Isidore Rigoutsos	IBM, Yorktown Heights, NY, USA
+David Sankoff		Université de Montréal, Montréal, Canada
+Ron Shamir		Tel Aviv University, Tel Aviv, Israel
+Donna Slonim		Genetics Institute, Cambridge, MA, USA
+Terry Speed		University of California, Berkeley, CA, USA
+Mike Sternberg		Imperial Cancer Research Fund, London, England
+William Taylor		National Institute of Medical Research, London, England
+Martin Vingron		German Cancer Research Center, Heidelberg, Germany
+Tandy Warnow		University of Texas, Austin, TX, USA
+Michael Waterman	University of Southern California, Los Angeles, CA, USA
+Ralf Zimmer		GMD, Sankt Augustin, Germany
+
+
+ORGANIZING COMMITTEE:
+
+Thomas Lengauer (Program Chair)    GMD - German National Research Center for
+                                   Information Technology, 
+                                   Sankt Augustin, Germany
+David Sankoff (Conference Chair)   Université de Montréal, 
+                                   Montréal, Canada
+Nadia El-Mabrouk                   Université de Montréal, 
+                                   Montréal, Canada
+Michael Hallett                    McGill University, 
+                                   Montréal, Canada
+François Major                     Université de Montréal, 
+                                   Montréal, Canada
+Thomas Hagedorn			   Université de Montréal, 
+                                   Montréal, Canada
+Theo Mevissen                      GMD - German National Research Center 
+                                   for Information Technology, 
+                                   Sankt Augustin, Germany
+Louis Pelletier                    Université de Montréal, 
+                                   Montréal, Canada
+Ralf Zimmer			   GMD - German National Research Center for
+                                   Information Technology, 
+                                   Sankt Augustin, Germany
+
+
+INFORMATION:
+
+David Sankoff
+Conference Chair RECOMB 2001
+Centre de recherches mathématiques
+Université de Montréal
+C.P. 6128, Succ. Centre-ville,
+Montréal (Québec),
+CANADA H3C 3J7
+Tel: (514) 343-7501
+Fax: (514) 343-2254
+email: recomb01@CRM.UMontreal.CA
+
+Thomas Lengauer
+Program Chair RECOMB 2001
+Institute for Algorithms and Scienfitic Computing
+GMD - German National Research Center for Information Technology
+Schloss Birlinghoven
+53754 Sankt Augustin
+Germany
+Tel: +49 2241 14 2777
+Fax: +49 2241 14 2656
+email:recomb2001@gmd.de
+
+URL: http://recomb2001.gmd.de
+
+-------------------------------------------------------------------------
+

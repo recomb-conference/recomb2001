@@ -1,0 +1,62 @@
+
+               First Call for Posters RECOMB 2001
+
+
+The Fifth Annual Conference on Research in Computational Molecular
+Biology (RECOMB 2001), organized by Centre de recherches
+mathematiques, Universite de Montreal, Canada, will be held at the
+Wyndham Hotel.Montreal, on April 22-25, 2001 (note date change).
+
+Invited speakers include George Church, Philip Sharp, Ruedi Aebersold,
+Mark Adams, Roger Brent, Franz Lang, Klaus Lindpaintner, Yvonne
+Martin and Mark Ptashne. Thirty-five other speakers were chosen out of
+128 submitted abstracts.
+
+POSTERS are sought reporting on original research (both theoretical and
+experimental) in all areas of computational molecular biology.
+
+Typical but not exclusive topics of interest include:
+
+              * Genomics
+              * Molecular sequence analysis
+              * Recognition of genes and regulatory elements
+              * Molecular evolution
+              * Protein structure
+              * Gene expression
+              * Gene networks
+              * Combinatorial libraries and drug design
+              * Computational proteomics
+              * Functional genomics
+
+ABSTRACT SUBMISSION:
+
+Two-page poster abstracts, preferably written in LaTeX though Word 
+or other word-processing software is acceptable, must be submitted 
+electronically to
+
+                   posters@crm.umontreal.ca
+
+The abstracts of accepted posters will be
+published in book form and will be available at the meeting.
+Instructions, intended to ensure consistent appearance, efficient handling
+and timely publication, appear on the conference website
+
+              http://recomb2001.gmd.de
+
+along with an abstract template. Abstracts must be received by January
+22, 2001; authors will be notified about acceptance before February 5,
+2001.
+
+Authors who cannot access the instructions or comply with
+e-mail instructions should inquire to
+
+                   posters@crm.umontreal.ca
+
+well in advance of the deadline.
+
+PRE-REGISTRATION
+
+Early registration will be accepted until March 1, 2001.  Instructions for
+electronic pre-registration can be found at the conference website.
+
+                   http://recomb2001.gmd.de
